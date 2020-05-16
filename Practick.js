@@ -8,5 +8,5 @@ let bth = document.querySelector('button').onclick = () => {
         }
 
     }
-
+    document.querySelector('.out').value = '';
 }
